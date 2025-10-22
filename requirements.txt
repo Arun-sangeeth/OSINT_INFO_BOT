@@ -1,0 +1,6 @@
+# REQUIRED LIBRARIES
+python-telegram-bot
+python-dotenv
+dnspython
+nvdlib
+requests

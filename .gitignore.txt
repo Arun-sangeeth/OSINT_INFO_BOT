@@ -1,0 +1,6 @@
+# Python-specific files and folders
+venv/
+__pycache__/
+
+# This line is crucial for protecting your secrets
+.env
